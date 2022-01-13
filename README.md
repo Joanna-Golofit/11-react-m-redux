@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 
+zaj 11: 
 https://www.youtube.com/watch?v=YXf4vimuqF0
 
 yt szybciej - https://www.youtube.com/watch?v=3zoIigieur0&ab_channel=techsith
@@ -17,6 +18,13 @@ const store = createStore(reducer);
 const dispatch = useDispatch();
 
 
+==============================================================
+zaj 12: 
+https://www.youtube.com/watch?v=nQ5KTGobWRI  29min pisanie kodu
+
+npm install @reduxjs/toolkit
+
+import { combineReducers } from "redux";
 
 
 55min cofnac sie i zaczac robic
