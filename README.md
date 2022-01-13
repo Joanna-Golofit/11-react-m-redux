@@ -18,6 +18,10 @@ const store = createStore(reducer);
 const dispatch = useDispatch();
 
 
+55min cofnac sie i zaczac robic
+1h 18min jak dziala ta juz napisana apka
+
+
 ==============================================================
 zaj 12: 
 https://www.youtube.com/watch?v=nQ5KTGobWRI  29min pisanie kodu
@@ -29,9 +33,7 @@ npm install @reduxjs/toolkit
 import { combineReducers, configureStore } from "@reduxjs/toolkit";
 
 import { createReducer } from "@reduxjs/toolkit";
-
-55min cofnac sie i zaczac robic
-1h 18min jak dziala ta juz napisana apka
+=================
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
