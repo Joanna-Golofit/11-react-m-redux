@@ -22,10 +22,13 @@ const dispatch = useDispatch();
 zaj 12: 
 https://www.youtube.com/watch?v=nQ5KTGobWRI  29min pisanie kodu
 
+yt: https://www.youtube.com/watch?v=k68j9xlbHHk&ab_channel=PedroTech 
+
 npm install @reduxjs/toolkit
 
-import { combineReducers } from "redux";
+import { combineReducers, configureStore } from "@reduxjs/toolkit";
 
+import { createReducer } from "@reduxjs/toolkit";
 
 55min cofnac sie i zaczac robic
 1h 18min jak dziala ta juz napisana apka
